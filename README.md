@@ -116,4 +116,4 @@ Open to new opportunities and collaborations.
 
 [hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonrahman/) · [GitHub](https://github.com/noyon-rahman)
 
-<sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days. If something here has been useful, you can <a href="https://www.buymeacoffee.com/noyonalways">buy me a coffee</a>.</sub>
+<sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days. If something here has been useful, you can <a href="https://www.buymeacoffee.com/noyonrahman">buy me a coffee</a>.</sub>
