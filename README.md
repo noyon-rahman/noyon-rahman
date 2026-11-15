@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://noyonrahman.com"><img src="https://img.shields.io/badge/Portfolio-noyonrahman.com-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/noyonalways/"><img src="https://img.shields.io/badge/LinkedIn-noyonalways-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/noyonrahman/"><img src="https://img.shields.io/badge/LinkedIn-noyonalways-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hello@noyonrahman.com"><img src="https://img.shields.io/badge/Email-hello@noyonrahman.com-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/file/d/143uDfWBSTWdEhdqgKXWWtd-_E1IwoB1v/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-4A4A4A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
 </p>
@@ -114,6 +114,6 @@ More at [noyonrahman.com](https://noyonrahman.com).
 
 Open to new opportunities and collaborations.
 
-[hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonalways/) · [GitHub](https://github.com/noyonalways)
+[hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonrahman/) · [GitHub](https://github.com/noyonalways)
 
 <sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days. If something here has been useful, you can <a href="https://www.buymeacoffee.com/noyonalways">buy me a coffee</a>.</sub>
