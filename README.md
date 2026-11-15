@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README — Noyon Rahman
-  Verified against github.com/noyon-rahman and noyonrahman.com (October 2026)
+  Verified against github.com/noyon-rahman and noyonrahman.com (November 2026)
 -->
 
 <img width="100%" style="border-radius: 6px" src="https://cdn.noyonrahman.com/uploads/Covers/Noyon_Rahman_Linked_Cover_New_cleaned.jpg" alt="Noyon Rahman — Software Developer">
@@ -16,6 +16,21 @@
   <a href="https://www.linkedin.com/in/noyonrahman/"><img src="https://img.shields.io/badge/LinkedIn-noyonrahman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hello@noyonrahman.com"><img src="https://img.shields.io/badge/Email-hello@noyonrahman.com-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/file/d/143uDfWBSTWdEhdqgKXWWtd-_E1IwoB1v/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-4A4A4A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/noyon-rahman"><img src="https://img.shields.io/badge/GitHub-noyon--rahman-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/noyonrahman_"><img src="https://img.shields.io/badge/X-noyonrahman__-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://dev.to/noyonrahman"><img src="https://img.shields.io/badge/DEV-noyonrahman-000000?style=flat-square&logo=devdotto&logoColor=white" alt="DEV Community"></a>
+  <a href="https://medium.com/@noyon-rahman"><img src="https://img.shields.io/badge/Medium-noyon--rahman-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://hashnode.com/@noyon-rahman"><img src="https://img.shields.io/badge/Hashnode-noyon--rahman-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+  <a href="https://www.behance.net/noyon-rahman"><img src="https://img.shields.io/badge/Behance-noyon--rahman-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://www.instagram.com/noyonrahman_"><img src="https://img.shields.io/badge/Instagram-noyonrahman__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://facebook.com/noyonrahman.dev"><img src="https://img.shields.io/badge/Facebook-noyonrahman.dev-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.threads.com/@noyonrahman_"><img src="https://img.shields.io/badge/Threads-noyonrahman__-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://www.tiktok.com/@noyonrahman_"><img src="https://img.shields.io/badge/TikTok-noyonrahman__-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://g.dev/noyonrahman"><img src="https://img.shields.io/badge/Google%20Dev-noyonrahman-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Developer"></a>
+  <a href="https://gravatar.com/noyonrahman1"><img src="https://img.shields.io/badge/Gravatar-noyonrahman1-1E8CBE?style=flat-square&logo=gravatar&logoColor=white" alt="Gravatar"></a>
 </p>
 
 ---
@@ -106,14 +121,14 @@ More at [noyonrahman.com](https://noyonrahman.com).
 ## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noyonalways&theme=github_dark" alt="Top languages by repository">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noyonalways&theme=github_dark" alt="GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noyon-rahman&theme=github_dark" alt="Top languages by repository">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noyon-rahman&theme=github_dark" alt="GitHub statistics">
 </p>
 
 ## Get in Touch
 
 Open to new opportunities and collaborations.
 
-[hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonrahman/) · [GitHub](https://github.com/noyon-rahman)
+[hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonrahman/) · [GitHub](https://github.com/noyon-rahman) · [X](https://x.com/noyonrahman_) · [DEV](https://dev.to/noyonrahman) · [Medium](https://medium.com/@noyon-rahman)
 
 <sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days. If something here has been useful, you can <a href="https://www.buymeacoffee.com/noyonalways">buy me a coffee</a>.</sub>
