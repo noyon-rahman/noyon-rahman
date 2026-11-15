@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README — Noyon Rahman
-  Verified against github.com/noyonalways and noyonrahman.com (October 2026)
+  Verified against github.com/noyon-rahman and noyonrahman.com (October 2026)
 -->
 
 <img width="100%" style="border-radius: 6px" src="https://cdn.noyonrahman.com/uploads/Covers/Noyon_Rahman_Linked_Cover_New_cleaned.jpg" alt="Noyon Rahman — Software Developer">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://noyonrahman.com"><img src="https://img.shields.io/badge/Portfolio-noyonrahman.com-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/noyonrahman/"><img src="https://img.shields.io/badge/LinkedIn-noyonalways-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/noyonrahman/"><img src="https://img.shields.io/badge/LinkedIn-noyonrahman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hello@noyonrahman.com"><img src="https://img.shields.io/badge/Email-hello@noyonrahman.com-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/file/d/143uDfWBSTWdEhdqgKXWWtd-_E1IwoB1v/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-4A4A4A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
 </p>
@@ -46,11 +46,11 @@ I worked as a **Junior Full-Stack Developer at DeveloperLook**. Before that, I w
 ## Selected Work
 
 - **Staffic.io** — Multi-tenant platform to track time, monitor teams, and run daily operations · [Live](https://staffic.io)
-- **Ibadah** — Offline-ready PWA for tracking daily ibadah, with AI assistance · [Live](https://ibadah.noyonrahman.com) · [Source](https://github.com/noyonalways/ibadah) 
-- **Luxe Maison** — Marketing site for a luxury home decor brand · [Live](https://luxe-maison.noyonrahman.com) · [Source](https://github.com/noyonalways/luxe-maison)
-- **R2 Explorer** — File explorer for Cloudflare R2 buckets, running on the edge · [Live](https://r2-explorer.noyonrahman.com) · [Source](https://github.com/noyonalways/r2-explorer)
+- **Ibadah** — Offline-ready PWA for tracking daily ibadah, with AI assistance · [Live](https://ibadah.noyonrahman.com) · [Source](https://github.com/noyon-rahman/ibadah) 
+- **Luxe Maison** — Marketing site for a luxury home decor brand · [Live](https://luxe-maison.noyonrahman.com) · [Source](https://github.com/noyon-rahman/luxe-maison)
+- **R2 Explorer** — File explorer for Cloudflare R2 buckets, running on the edge · [Live](https://r2-explorer.noyonrahman.com) · [Source](https://github.com/noyon-rahman/r2-explorer)
 - **CodeVibe Themes** — A Visual Studio Code theme collection — Epic, Arctic Frost, and Neon Noir [Landing](https://codevibe.noyonrahman.com/) · [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes)
-- **The Magic README** — A CLI tool to generate README files magically, with ten templates and interactive prompts · [Landing](https://magic-readme.noyonrahman.com) · [npm](https://www.npmjs.com/package/the-magic-readme) · [Source](https://github.com/noyonalways/the-magic-readme)
+- **The Magic README** — A CLI tool to generate README files magically, with ten templates and interactive prompts · [Landing](https://magic-readme.noyonrahman.com) · [npm](https://www.npmjs.com/package/the-magic-readme) · [Source](https://github.com/noyon-rahman/the-magic-readme)
 
 More at [noyonrahman.com](https://noyonrahman.com).
 
@@ -114,6 +114,6 @@ More at [noyonrahman.com](https://noyonrahman.com).
 
 Open to new opportunities and collaborations.
 
-[hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonrahman/) · [GitHub](https://github.com/noyonalways)
+[hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonrahman/) · [GitHub](https://github.com/noyon-rahman)
 
 <sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days. If something here has been useful, you can <a href="https://www.buymeacoffee.com/noyonalways">buy me a coffee</a>.</sub>
